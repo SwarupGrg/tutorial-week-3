@@ -14,6 +14,7 @@
 - Accept the license agreement
 - Choose installation folder
 ` Allow driver installation when prompted. After installation, open Arduino IDE from the Start Menu.`
+
 **For macOS**
 - Visit https://www.arduino.cc/en/software
 - Under macOS, click “Mac OS X Version” to download the .dmg file.
