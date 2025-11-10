@@ -55,7 +55,7 @@ void loop() {
 > Set baud rate = 9600 (bottom-right corner)
 ### 1. Observe the Arduino Board and find out the GPIO pins. Also, write its functions.
 ```
-
+Arduino Uno has 14 digital GPIO pins (D0–D13) and 6 analog GPIO pins (A0–A5).GPIO (General Purpose Input/Output) pins allow the Arduino to read sensors (input) and control devices like LEDs or motors (output).
 
 ```
 ### 2. Find out ceramic resonator and microcontroller and write it's function.
