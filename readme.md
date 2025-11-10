@@ -80,6 +80,18 @@ EEPROM: 1 KB (for storing data permanently even after power off)
 ```
 ### 4. What is NodeMCU-ESP32 ? What are the difference between NodeMCU-ESP32 and Arduino UNO?
 ```
+A powerful Wi-Fi and Bluetooth-enabled microcontroller board based on the ESP32 chip, used for IoT and wireless applications.
 
+Processor: ESP32 has a 32-bit dual-core CPU; Arduino Uno has an 8-bit CPU.
+
+Clock Speed: ESP32 runs at 240 MHz; Uno at 16 MHz.
+
+Connectivity: ESP32 has built-in Wi-Fi and Bluetooth; Uno has none.
+
+Memory: ESP32 has 4 MB Flash; Uno has 32 KB Flash.
+
+Operating Voltage: ESP32 uses 3.3 V; Uno uses 5 V.
+
+GPIO Pins: ESP32 ≈30 pins; Uno has 14 digital and 6 analog pins.
 
 ```
