@@ -66,7 +66,7 @@ A timing device that provides the clock signal to keep the Arduino’s operation
 ```
 ```
 About microcontroller and its function
-
+The brain of the Arduino, which stores and runs the program, controls inputs/outputs, and processes data.
 
 ```
 ### 3. Find out how much memory is on Arduino UNO R3 board? Note out the different types of memory and capacity of each type.
