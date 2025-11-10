@@ -61,7 +61,7 @@ void loop() {
 ### 2. Find out ceramic resonator and microcontroller and write it's function.
 ```
 About ceramic resonator and its function
-
+A timing device that provides the clock signal to keep the Arduino’s operations running at the correct speed (usually 16 MHz).
 
 ```
 ```
