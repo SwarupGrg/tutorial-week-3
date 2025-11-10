@@ -71,7 +71,11 @@ The brain of the Arduino, which stores and runs the program, controls inputs/out
 ```
 ### 3. Find out how much memory is on Arduino UNO R3 board? Note out the different types of memory and capacity of each type.
 ```
+Flash Memory: 32 KB (for storing programs; 0.5 KB used by bootloader)
 
+SRAM: 2 KB (for variables during program execution)
+
+EEPROM: 1 KB (for storing data permanently even after power off)
 
 ```
 ### 4. What is NodeMCU-ESP32 ? What are the difference between NodeMCU-ESP32 and Arduino UNO?
